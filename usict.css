@@ -1,0 +1,165 @@
+body{
+    margin: 0%;
+}
+img{
+width: 90px;
+height: 90px;
+padding-left: 2%;
+
+}
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    padding-left: 12%;
+    color: white;
+    width: 10%;    
+}
+button{
+
+}
+header{
+    background-color: rgb(13, 13, 97);
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.home{
+    float: right;
+}
+ul:hover{
+
+}
+nav{
+   
+    background-color:white;
+    text-align: center;
+    padding: 1%;
+
+}
+nav a{
+    color: red;
+   padding: 0.2em;
+}
+
+nav a:hover{
+    color: darkblue;
+}
+.home a:hover{
+    color: yellow;
+}
+a:visited{
+    color: rgb(16, 16, 235);
+}
+
+.q{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+z-index: 7;
+}
+.w{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    z-index: 6;
+}
+.e{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    z-index: 5;
+}
+.r{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    z-index: 4;
+}
+.t{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    z-index: 3;
+}
+.y{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    z-index: 2;
+}
+.u{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 24%;
+    z-index: 1;
+}
+h2{
+    text-align: center;
+    padding: 2%;
+    color: rgb(82, 81, 81);
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 0%;
+}
+.first1,.first2{
+    font-weight: 550;
+    color: rgb(116, 115, 115);
+}
+.first{
+    text-align: center;
+    color: rgb(3, 3, 3);
+
+
+}
+.pdf{
+    color: blue;
+}
+.pdf:hover{
+    color: darkblue;
+}
+.thrust{
+    color: rgb(116, 115, 115);
+}
+#text{
+    padding: 5%;
+    color: rgb(134, 134, 134);
+    
+}
+footer{
+     background-color: rgb(13, 13, 97);
+    padding-left: 3%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding-top: 3%;
+overflow: hidden;
+}
+h6{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+padding-bottom: 5%;
+font-weight: 100;
+}
+a:hover{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+.fb,.tw,.ins,.yt{
+    width: 20px;
+    height: 20px;
+    float: right;
+    
+}
